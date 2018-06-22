@@ -2,7 +2,6 @@
 
 Block list collection for all needs.
 
-===============================================================
 THIS BLOCK LIST COLLECTION STARTS BASED ON THE #blockback IDEA: 
 ===============================================================
 Upcoming EU copyright law targets to the end of internet usage as we are used to in european union.
@@ -19,10 +18,9 @@ You can add it to your private filter list in the free adBlocker uBlock Origin (
 avaialbe for almost all browsers or add it to routers filters list, 
 if you think you need to protect your family from access to this kind of websites.
 
-IN ADDITION: 
-Check the block lists (blockback-ubo.txt, blockback-fb.txt) before copy/pasting them, 
-remove false positive, enhance them by your own, in brief: 
-Do whatever you like to with this lists.
+IN ADDITION:
+Check the block lists (blockback-ubo.txt, blockback-fb.txt) before copy/pasting them, remove false positive, enhance them by your own, in brief: Do whatever you like to with this lists.
+
 ===============================================================
 
 
