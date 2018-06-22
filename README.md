@@ -15,16 +15,15 @@ The idea is: If they block you from using the internet as free law repecting per
 block their (f***ing) websites on your private devices and never go there again.
 
 You can add it to your private filter list in the free adBlocker uBlock Origin (see https://github.com/gorhill/uBlock) 
-avaialbe for almost all browsers or add it to routers filters list, 
-if you think you need to protect your family from access to this kind of websites.
+available for almost all browsers or add it to ROUTERS filter list, if you think you need to protect your family from access to this kind of websites.
 
 IN ADDITION:
-Check the block lists (blockback-ubo.txt, blockback-fb.txt) before copy/pasting them, remove false positive, enhance them by your own, in brief: Do whatever you like to with this lists.
+============
+Check the block lists (blockback-ubo.txt [uBlock], blockback-fb.txt [fritz!box]) before copy/pasting them, remove false positive, enhance them by your own, in brief: Do whatever you like to with this lists.
 
-===============================================================
 
-
-WELCOME ARE
+WELCOME ARE:
+==========
 - proposals for changes, enhancements, error correction, deletion of false positvices of existing lists.
 - new list for other purposes (e.g. malware blocking, porn blocking, etc. ...). 
 (-> I'll have to find out how to manage that on github ... )
