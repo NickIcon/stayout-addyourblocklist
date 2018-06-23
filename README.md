@@ -1,8 +1,10 @@
 # stayout-addyourblocklist
 
 
-contributors repository: add your blocklist here! help to correct and enhance existing block lists
-====
+Contributors Repository: Add your blocklist/filterlist/codes to the WIKI! 
+===
+help to correct and enhance existing block lists
+===
 
 
 
