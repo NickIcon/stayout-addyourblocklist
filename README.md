@@ -1,4 +1,10 @@
-# stayout
+# stayout-addyourblocklist
+
+
+contributors repository: add your blocklist here! help to correct and enhance existing block lists
+====
+
+
 
 Block list collection for all needs.
 
@@ -26,4 +32,3 @@ WELCOME ARE:
 ==========
 - proposals for changes, enhancements, error correction, deletion of false positvices of existing lists.
 - new list for other purposes (e.g. malware blocking, porn blocking, etc. ...). 
-(-> I'll have to find out how to manage that on github ... )
